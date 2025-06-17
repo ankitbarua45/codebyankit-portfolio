@@ -26,10 +26,10 @@ My personal portfolio website showcasing my **skills**, **projects**, and **cont
 
 ## 🚀 Live Demo  
 [🔗 View Live](https://codebyankit.netlify.app/)  
-_Replace with your actual deployed link._
+
 
 ---
-📧 Setting up EmailJS
+## 📧 Setting up EmailJS
 Create an account at EmailJS.
 
 Create a new service and a new email template.
@@ -91,7 +91,7 @@ The following video files are used in the project locally but were **not uploade
 
 Google Drive link-
 
-
+## 📸 Screenshots
 
 ![Screenshot (142)](https://github.com/user-attachments/assets/173ed093-6cbb-42d4-8cde-9c8daf6accbe)
 
