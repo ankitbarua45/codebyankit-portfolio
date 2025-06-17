@@ -59,6 +59,40 @@ emailjs.send(
 
 ✅ Done! Your form will now send emails via EmailJS.
 
+## folder and file structure (starkchar)
+
+PORTFOLIO/
+├── .vscode/
+│   └── settings.json
+├── images/
+│   ├── grid1.png
+│   ├── grid4.png
+│   ├── grid20.png
+│   └── logo1.png
+├── videos/
+│   ├── blackhole.mp4
+│   ├── desktop.ini
+│   ├── galaxy.mp4
+│   ├── glob.mp4
+│   ├── hero-video1.mp4
+│   ├── km1.mp4 ( not 
+│   ├── project1.mp4
+│   ├── project2.mp4
+├── app.js
+├── index.html
+└── style.css
+
+The following video files are used in the project locally but were **not uploaded to the Git repository** because they exceed the 25 MB limit:
+
+- `glob.mp4`
+- `hero-video1.mp4`
+- `km1.mp4`
+- `project1.mp4`
+- `project2.mp4`
+
+Google Drive link-
+
+
 
 ![Screenshot (142)](https://github.com/user-attachments/assets/173ed093-6cbb-42d4-8cde-9c8daf6accbe)
 
