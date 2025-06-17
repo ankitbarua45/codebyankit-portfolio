@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // EmailJS with public key
-emailjs.init("i-qAzx72M6gruYneL");
+emailjs.init("");
 
 function sendEmail() {
     console.log("sendEmail() called");
