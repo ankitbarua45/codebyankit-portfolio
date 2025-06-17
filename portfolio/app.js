@@ -53,7 +53,7 @@ function sendEmail() {
         return;
     }
 
-    emailjs.sendForm("service_xo6k0jm", "template_xcq6orb", form)
+    emailjs.sendForm("service_", "template_", form)
         .then(function (response) {
             console.log("SUCCESS!", response.status, response.text);
             // Show the custom success alert
