@@ -59,7 +59,7 @@ emailjs.send(
 
 ✅ Done! Your form will now send emails via EmailJS.
 
-## Folder and file structure (starkchar)
+## Folder and file structure 
 
 PORTFOLIO/                                                                                                                                                                                                          
 ├── .vscode/                                                                                                                                                                                                        
