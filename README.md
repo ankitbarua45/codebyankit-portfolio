@@ -91,12 +91,13 @@ The following video files are used in the project locally but were **not uploade
 
 Google Drive link-
 
-📄 License
-MIT License.
-Copyright © 2024 Ankit Barua
+
 
 ## 📸 Screenshots
 
 ![Screenshot (142)](https://github.com/user-attachments/assets/173ed093-6cbb-42d4-8cde-9c8daf6accbe)
 
 
+### 📄 License
+    MIT License.
+    Copyright © 2024 Ankit Barua
